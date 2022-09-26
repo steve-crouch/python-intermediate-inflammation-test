@@ -1,4 +1,4 @@
-"""Tests for statistics functions within the Model layer."""
+"""Tests for statistics functions within the Model layer.  """
 
 import numpy as np
 import numpy.testing as npt
